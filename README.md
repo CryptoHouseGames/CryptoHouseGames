@@ -2,7 +2,7 @@
 - 
 - 👀 We're interested in expanding blockchain community, by providing trustless, open-source algorithms for online gambling.
 - 
-- 🌱 We're currently working on adding more awesome features to our site at cryptohouse.games !
+- 🌱 We're currently working on adding more awesome features to our site at https://cryptohouse.games !
 - 
 - 💞️ We're looking to collaborate on creating more open-source projects on blockchains. Our plans include:
 -  new official NFT collections,
